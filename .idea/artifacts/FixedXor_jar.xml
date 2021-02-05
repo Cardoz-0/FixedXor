@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FixedXor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FixedXor_jar</output-path>
+    <root id="archive" name="FixedXor.jar">
+      <element id="module-output" name="FixedXor" />
+    </root>
+  </artifact>
+</component>
