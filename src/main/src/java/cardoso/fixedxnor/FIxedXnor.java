@@ -11,6 +11,7 @@ public class FIxedXnor {
 
         String xnor = XNOR(string1, string2);
         System.out.println(binToHex(xnor));
+        System.out.println("Source code: https://github.com/Cardoz-0/FixedXor");
     }
 
 
